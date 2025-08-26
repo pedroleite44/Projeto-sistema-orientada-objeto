@@ -115,9 +115,10 @@ Treinamento e Capacitação
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📝 Product Backlog
-[📄 Confira a documentação completa aqui](PRODUCT_BACKLOG_versão_1.0.pdf)
+[📄 Confira a documentação completa aqui](https://github.com/Caio-eng-gif/Projeto_de_Sistema_Orientado_a_Objetos/blob/main/PRODUCT%20BACKLOG_vers%C3%A3o%201.0.pdf)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📝 Sprint Backlog
-[📄 Confira a documentação completa aqui](SprintBacklog_versão1.1.pdf)
+[📄 Confira a documentação completa aqui](https://github.com/Caio-eng-gif/Projeto_de_Sistema_Orientado_a_Objetos/blob/main/SprintBacklog_vers%C3%A3o1.pdf)
