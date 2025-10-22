@@ -1,11 +1,20 @@
-# API 6º Semestre ADS
+# Projeto-sistema-orientada-objeto
 
-# DomRock AI - Auxia
+<img src="https://github.com/user-attachments/assets/4e9a0245-767e-4a80-aec5-e715a6d94529" alt="Logo MVP Desk" width="200"/>
 
-<p align="center">
-      <img src="docs/Img/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
-      <h2 align="center"> Buzz Tech</h2>
-</p>
+
+
+
+
+# 📲Sistema integrado para gestão de chamados e suporte técnico baseado em IA.
+
+
+
+# 🎓 Aprendizado por Projeto Integrador
+* UNIP
+
+*  / 3º Período - Analise e Desenvolvimento de Sistemas
+
 
 <p align="center">
   | <a href ="#desafio"> Desafio</a>  |
