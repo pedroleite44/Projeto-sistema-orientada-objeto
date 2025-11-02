@@ -79,4 +79,4 @@ Realizar o levantamento e análise de requisitos para a criação de um sistema 
 
 | Aluno            | Função           | GitHub                                                         | LinkedIn                                              |
 | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
-|__Pedro Henrique Dos Santos Leite__   | *Desenvolvedor*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/pedroleite44)| [![](https://bit.ly/2P1ZogM)]https://www.linkedin.com/in/pedro-henrique-b028a11a0/) |
+|__Pedro Henrique Dos Santos Leite__   | *Desenvolvedor*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/pedroleite44)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/pedro-henrique-b028a11a0/) |
